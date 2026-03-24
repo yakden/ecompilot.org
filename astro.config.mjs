@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 export default defineConfig({
-  site: "https://ecompilot.org",
+  site: "https://doc.ecompilot.org",
   integrations: [
     starlight({
       title: "EcomPilot",
